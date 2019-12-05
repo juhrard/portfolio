@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Gerard Crockenberg's portfolio
